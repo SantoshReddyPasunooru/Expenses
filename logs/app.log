@@ -1,0 +1,54 @@
+2024-10-13 19:07:08 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 20432 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker)
+2024-10-13 19:07:08 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 19:08:28 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 25080 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker)
+2024-10-13 19:08:28 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 19:09:08 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 26812 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker)
+2024-10-13 19:09:08 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 19:12:04 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 24252 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker)
+2024-10-13 19:12:04 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 19:12:37 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 23192 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker)
+2024-10-13 19:12:37 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 19:14:16 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 24388 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\ExpenseTracker)
+2024-10-13 19:14:16 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 19:14:18 INFO  BackendApplication:56 - Started BackendApplication in 2.746 seconds (process running for 3.494)
+2024-10-13 19:15:19 INFO  AuthController:25 - API: SignUp
+2024-10-13 19:15:19 INFO  AuthService:50 - User P Pasunooru Santosh Reddy Created Successfully :)
+2024-10-13 19:15:33 INFO  AuthController:33 - API: Login
+2024-10-13 19:15:33 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-13 19:16:08 INFO  ExpenseController:31 - API: Add Expense
+2024-10-13 19:16:08 INFO  ExpenseController:59 - Added Expense successfully :)
+2024-10-13 19:16:13 INFO  ExpenseController:31 - API: Add Expense
+2024-10-13 19:16:13 INFO  ExpenseController:59 - Added Expense successfully :)
+2024-10-13 19:16:18 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:16:18 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:16:18 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:16:18 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:25:38 INFO  AuthController:33 - API: Login
+2024-10-13 19:25:38 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-13 19:29:22 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:29:22 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:29:22 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:29:22 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:31:19 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:31:19 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:31:19 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:31:19 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:31:43 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:31:43 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:31:43 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:31:43 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:42:10 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 11652 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses)
+2024-10-13 19:42:10 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 19:42:13 INFO  BackendApplication:56 - Started BackendApplication in 3.055 seconds (process running for 4.096)
+2024-10-13 19:46:33 INFO  AuthController:33 - API: Login
+2024-10-13 19:46:33 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-13 19:46:50 INFO  ExpenseController:31 - API: Add Expense
+2024-10-13 19:46:50 INFO  ExpenseController:59 - Added Expense successfully :)
+2024-10-13 19:46:54 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:46:54 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:46:54 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:46:54 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:47:00 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:47:00 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 19:47:00 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 19:47:00 INFO  ExpenseController:96 - Displayed whole Expense list successfully
