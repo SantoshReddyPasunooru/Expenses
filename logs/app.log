@@ -52,3 +52,30 @@
 2024-10-13 19:47:00 INFO  ExpenseController:96 - Displayed whole Expense list successfully
 2024-10-13 19:47:00 INFO  ExpenseController:46 - API: Display List of Expenses
 2024-10-13 19:47:00 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 21:02:31 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 16024 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses)
+2024-10-13 21:02:31 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 21:03:13 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 24164 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses)
+2024-10-13 21:03:13 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-10-13 21:03:15 INFO  BackendApplication:56 - Started BackendApplication in 2.912 seconds (process running for 3.65)
+2024-10-13 21:04:47 INFO  AuthController:33 - API: Login
+2024-10-13 21:04:47 ERROR AuthService:83 - User doesn't exist !!
+2024-10-13 21:05:09 INFO  AuthController:25 - API: SignUp
+2024-10-13 21:05:09 INFO  AuthService:50 - User Santosh  Reddy Created Successfully :)
+2024-10-13 21:05:12 INFO  AuthController:33 - API: Login
+2024-10-13 21:05:12 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-13 21:05:38 INFO  ExpenseController:31 - API: Add Expense
+2024-10-13 21:05:38 INFO  ExpenseController:59 - Added Expense successfully :)
+2024-10-13 21:05:41 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 21:05:41 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 21:05:41 INFO  ExpenseController:46 - API: Display List of Expenses
+2024-10-13 21:05:41 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-15 12:43:46 INFO  AuthController:33 - API: Login
+2024-10-15 12:43:47 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-15 12:46:13 INFO  AuthController:33 - API: Login
+2024-10-15 12:46:13 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-15 12:47:55 INFO  AuthController:33 - API: Login
+2024-10-15 12:47:55 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-15 12:48:53 INFO  AuthController:33 - API: Login
+2024-10-15 12:48:54 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
+2024-10-15 12:50:12 INFO  AuthController:33 - API: Login
+2024-10-15 12:50:12 INFO  AuthService:73 - User with email: spasunoo@uncc.edu Verified Successfully :)
