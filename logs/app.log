@@ -52,3 +52,5 @@
 2024-10-13 19:47:00 INFO  ExpenseController:96 - Displayed whole Expense list successfully
 2024-10-13 19:47:00 INFO  ExpenseController:46 - API: Display List of Expenses
 2024-10-13 19:47:00 INFO  ExpenseController:96 - Displayed whole Expense list successfully
+2024-10-13 21:02:31 INFO  BackendApplication:50 - Starting BackendApplication using Java 22.0.2 with PID 16024 (C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses\backend\target\classes started by Santosh Reddy in C:\Users\Santosh Reddy\Desktop\Books\Java Full stack development\Tracking Expenses)
+2024-10-13 21:02:31 INFO  BackendApplication:654 - No active profile set, falling back to 1 default profile: "default"

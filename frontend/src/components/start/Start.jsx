@@ -7,10 +7,13 @@ const Start = () => {
 
     return (
         <div className="start-container">
+            <div className="background-image"></div>
+            <div className="overlay"></div>
+
             <div className="content">
-                <h1 className="heading">Track the Monthly Expenses</h1>
+                <h1 className="heading">Student Expenses Portal</h1>
                 <p className="description">
-                    Hey Splitwise Members, update the tracking expenses for further verification
+                    Welcome to the Student Monthly Expenses Portal! Keep track of your expenses and manage your budget efficiently.
                 </p>
                 <button className="login-button" onClick={() => navigate("/loginsignup")}>
                     Get Started
